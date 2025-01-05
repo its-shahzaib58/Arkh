@@ -1,0 +1,25 @@
+{
+  "name": "adb_addon",
+  "version": "1.0.0",
+  "description": "This is web app for article data keep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "article"
+  ],
+  "author": "M. Shahzaib Ramzan",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "docx": "^9.0.2",
+    "openai": "^4.68.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
